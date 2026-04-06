@@ -73,6 +73,7 @@ local signs = {
     {name = "sign1", texture = "sign1.png"},
     {name = "sign2", texture = "sign2.png"},
     {name = "sign3", texture = "sign3.png"},
+    {name= "sign4", texture= "easter_basket.png"}
 }
 
 for _, s in ipairs(signs) do
